@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=30&height=300&section=header&text=Chaerin's%20GitHub&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4776E6,8E54E9&height=300&section=header&text=Chaerin's%20GitHub&fontSize=90&fontColor=ffffff)
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
   
