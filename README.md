@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0000FF,00BFFF&height=300&section=header&text=Welcome%20to%20Chaerin's%20GitHub&fontSize=90&fontColor=ffffff&stroke=F28D99&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0000FF,00BFFF&height=300&section=header&text=Welcome%20to<br>Chaerin's%20GitHub&fontSize=90&fontColor=ffffff&stroke=F28D99&strokeWidth=3)
