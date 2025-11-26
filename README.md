@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0000FF,00BFFF&height=300&section=header&text=Hello%20I'm%20ChaerinLee&fontSize=90&fontColor=ffffff&stroke=F28D99&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0000FF,00BFFF&height=300&section=header&text=AI%20Developer&fontSize=90&fontColor=ffffff&stroke=F28D99&strokeWidth=3)
