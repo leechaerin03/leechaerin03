@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&gradient=0000FF,00BFFF&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&gradient=4facfe,00f2fe&height=300&section=header&text=capsule%20render&fontSize=90&fontColor=ffffff&stroke=000080&strokeWidth=2)
